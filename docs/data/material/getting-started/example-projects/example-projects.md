@@ -21,8 +21,7 @@ You can find some example projects in the [GitHub repository](https://github.com
 - [Next.js + @mui/styles (v4 migration helper)](https://github.com/mui/material-ui/tree/master/examples/material-next-ts-v4-v5-migration)
 
 Create React App is an awesome project for learning React.
-Have a look at [the alternatives available](https://github.com/facebook/create-react-app/blob/HEAD/README.md#popular-alternatives) to see which project best fits your needs.
-
+Have a look at [the alternatives available](https://github.com/facebook/create-react-app/blob/HEAD/README.md#popular-al    
 The source code for this documentation site is also included in the repository.
 This is a slightly more complex project.
 Check out the [`/docs`](https://github.com/mui/material-ui/tree/master/docs) folder for
